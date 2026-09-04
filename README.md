@@ -26,3 +26,4 @@ This is tested and working in the latest version of DCS World. Functionality has
 --- 
 ## Questions, Comments, Feedback?
 Add me on Discord @martinharasimo
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F6A026C2GU)
